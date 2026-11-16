@@ -30,3 +30,6 @@ htmlcov/
 *.egg-info/
 dist/
 build/
+
+# Learning guide (local only)
+LEARNING_GUIDE_TAMIL_ENGLISH.md
