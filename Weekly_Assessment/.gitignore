@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+salary.xlsx
+high_earners.csv
+employees.json
+.pytest_cache/
+.coverage
+htmlcov/

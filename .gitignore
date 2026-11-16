@@ -1,0 +1,32 @@
+# Environment variables & secrets
+.env
+*.env
+
+# Python byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing & Linting caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+htmlcov/
+.coverage
+
+# Build and package artifacts
+*.egg-info/
+dist/
+build/
