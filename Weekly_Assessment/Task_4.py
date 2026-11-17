@@ -1,7 +1,3 @@
-"""
-Week 1 - Weekly Assessment
-Task 4: FastAPI Microservice with Pydantic & REST Endpoints
-"""
 
 import json
 from pathlib import Path
